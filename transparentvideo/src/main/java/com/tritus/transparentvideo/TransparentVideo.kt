@@ -1,4 +1,4 @@
-package com.tritus.transparentvideo.video.transparent
+package com.tritus.transparentvideo
 
 import androidx.annotation.RawRes
 import androidx.compose.foundation.layout.Box

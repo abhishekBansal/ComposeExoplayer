@@ -1,4 +1,4 @@
-package com.electra.commons_ui.views.video.transparent.glTexture.opengl
+package com.tritus.transparentvideo.glTexture.opengl
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.asCoroutineDispatcher

@@ -3,7 +3,7 @@ package com.tritus.transparentvideo.glTexture
 import android.graphics.SurfaceTexture
 import android.view.TextureView
 import com.tritus.transparentvideo.glTexture.egl.EGLHandler
-import com.electra.commons_ui.views.video.transparent.glTexture.opengl.OpenGLContext
+import com.tritus.transparentvideo.glTexture.opengl.OpenGLContext
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.launchIn
